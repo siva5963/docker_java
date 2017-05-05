@@ -25,7 +25,7 @@ Login Succeeded ```
 >Pull the Image from the Docker hub.
 
 ```
-cb@123:~$ sudo docker pull sripadaraj77/dockyjava
+cb@123:~$ sudo docker pull siva5963/docker_java
 ```
 
 >Check your Images 
@@ -35,9 +35,9 @@ cb@123:~$ sudo docker pull sripadaraj77/dockyjava
 
 REPOSITORY                  TAG                 IMAGE ID            CREATED             SIZE
 
-sri                         latest              8e6d4f58b0be        3 hours ago         594 MB
+siva                        latest              8e6d4f58b0be        3 hours ago         594 MB
 
-sripadaraj77/dockyjava      latest              8e6d4f58b0be        3 hours ago         594 MB
+siva5963/docker_java        latest              8e6d4f58b0be        3 hours ago         594 MB
 
 <none>                      <none>              6f34ea4ca072        3 hours ago         584 MB
 
